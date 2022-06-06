@@ -7,5 +7,9 @@ const get_rest_btn = document.getElementById('get_restaurant');
 get_rest_btn.addEventListener('click', () => createRestaurant());
 
 const createRestaurant = () => {
-  alert("hi");
+
+  $.getJSON('./restaurant.json', function(data) {
+    var random = data.featured[Math.floor(Math.random() * data.featured.length)];
+    alert(random.name);
+  });
 }

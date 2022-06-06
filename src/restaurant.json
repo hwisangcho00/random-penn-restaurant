@@ -1,0 +1,31 @@
+{
+    "featured" : [
+        {"name":"Terakawa Ramen", "type":"Japanese", "price": "$$"},
+        {"name":"McDonald's", "type":"Fast food", "price":"$"},
+        {"name":"Wishbone", "type":"Fried Chicken", "price":"$$"},
+        {"name":"Dim Sum House", "type":"Chinese", "price":"$$"},
+        {"name":"U-Town", "type":"Korean", "price":"$$"},
+        {"name":"Mizu", "type":"Japanese", "price":"$$"},
+        {"name":"Xi'an Sizzling Woks", "type":"Chinese", "price":"$$"},
+        {"name":"Nam", "type":"Vietnamese", "price":"$$"},
+        {"name":"Bonchon", "type":"Korean Style Chicken", "price":"$$"},
+        {"name":"Pelicana", "type":"Korean Style Chicken", "price":"$$"},
+        {"name":"LaTao Hot Pot", "type":"Hot Pot", "price":"$$$"},
+        {"name":"Poke-man", "type":"Hawaiian", "price":"$$"},
+        {"name":"Ochatto", "type":"Japanese", "price":"$$"},
+        {"name":"Sang Kee Noodle House", "type":"Chinese", "price":"$$"},
+        {"name":"Kpod", "type":"Korean Fusion", "price":"$$$$"},
+        {"name":"Louie Louie", "type":"Bistro", "price":"$$$"},
+        {"name":"Baby Blues BBQ ", "type":"BBQ", "price":"$$$"},
+        {"name":"White Dog Cafe", "type":"American", "price":"$$$"},
+        {"name":"New Deck Tavern", "type":"Irish Pub", "price":"$$$"},
+        {"name":"El Taco", "type":"Mexican", "price":"$$"},
+        {"name":"CM Chicken", "type":"Korean Style Chicken", "price":"$$"},
+        {"name":"Yiro Yiro", "type":"Greek", "price":"$$"},
+        {"name":"Hummus Grill", "type":"Mediterranean", "price":"$$"},
+        {"name":"Raising Cane's Chicken Fingers", "type":"Fried Chicken", "price":"$"},
+        {"name":"&Pizza", "type":"Pizza", "price":"$"},
+        {"name":"Chipotle", "type":"Mexican", "price":"$"},
+        {"name":"Thai Singha House", "type":"Thai", "price":"$$"}
+    ]
+}
